@@ -1,3 +1,17 @@
+thoughtbot Laptop custom version by bugtender
+===========
+
+How to sync the fork
+-----------
+
+```
+$ git co master
+$ git fetch upstream
+$ git merge upstream/master
+$ git co custom
+$ git rebase master
+```
+
 Laptop
 ======
 

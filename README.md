@@ -12,6 +12,45 @@ $ git co custom
 $ git rebase master
 ```
 
+App not included in List (Install by appstore or other way)
+--------------------------
+
+```
+- Pages, Numbers, Keynote
+- Quiver
+- LINE
+- Twitter
+- Nylas
+```
+
+App Install List (by cask)
+--------------------------
+
+```
+- Tools
+  - bettertouchtool
+  - the-unarchiver
+- Browser
+  - firefox
+  - google-chrome
+  - torbrowser
+- Works
+  - visual-studio-code
+  - sketch
+  - zeplin
+  - slack
+  - sourcetree
+- Sync
+  - dropbox
+  - google-drive
+- Others
+  - kkbox
+  - welly
+  - vlc
+  - telegram
+```
+
+
 Laptop
 ======
 

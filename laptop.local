@@ -1,0 +1,36 @@
+# App List
+
+echo App Installing ...
+
+
+# Tools
+#==============================================================================
+brew cask install bettertouchtool
+brew cask install the-unarchiver
+brew cask install appcleaner
+
+# Browser
+#==============================================================================
+brew cask install firefox
+brew cask install google-chrome
+brew cask install torbrowser
+
+# For Work
+#==============================================================================
+brew cask install visual-studio-code
+brew cask install sketch
+brew cask install zeplin
+brew cask install slack 
+brew cask install sourcetree
+
+# Sync
+#==============================================================================
+brew cask install dropbox
+brew cask install google-drive
+
+# Other
+#==============================================================================
+brew cask install kkbox
+brew cask install welly
+brew cask install vlc
+brew cask install telegram

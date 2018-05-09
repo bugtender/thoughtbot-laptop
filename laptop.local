@@ -14,23 +14,24 @@ brew cask install appcleaner
 brew cask install firefox
 brew cask install google-chrome
 brew cask install torbrowser
+brew cask install vivaldi
 
 # For Work
 #==============================================================================
 brew cask install visual-studio-code
-brew cask install sketch
 brew cask install zeplin
 brew cask install slack 
-brew cask install sourcetree
+brew cask install fork
+brew cask install postman
 
-# Sync
+# Files
 #==============================================================================
 brew cask install dropbox
-brew cask install google-drive
 
 # Other
 #==============================================================================
-brew cask install kkbox
-brew cask install welly
+brew cask install spotify
 brew cask install vlc
+brew cask install teamviewer
+brew cask install skype
 brew cask install telegram

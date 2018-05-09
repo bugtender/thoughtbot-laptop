@@ -16,11 +16,13 @@ App not included in List (Install by appstore or other way)
 --------------------------
 
 ```
+- Bear
 - Pages, Numbers, Keynote
-- Quiver
 - LINE
-- Twitter
-- Nylas
+- Adobe siries
+- thinkorswin
+- IOTA Wallet
+- ImageOptim
 ```
 
 App Install List (by cask)
@@ -30,23 +32,25 @@ App Install List (by cask)
 - Tools
   - bettertouchtool
   - the-unarchiver
+  - appcleaner
 - Browser
   - firefox
   - google-chrome
   - torbrowser
+  - vivaldi
 - Works
   - visual-studio-code
-  - sketch
   - zeplin
   - slack
-  - sourcetree
-- Sync
+  - fork
+  - postman
+- Files
   - dropbox
-  - google-drive
 - Others
-  - kkbox
-  - welly
+  - spotify
   - vlc
+  - teamviewer
+  - skype
   - telegram
 ```
 

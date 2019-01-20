@@ -22,7 +22,7 @@ App not included in List (Install by appstore or other way)
 - Adobe siries
 - thinkorswin
 - IOTA Wallet
-- ImageOptim
+- Tadam
 ```
 
 App Install List (by cask)
@@ -37,14 +37,15 @@ App Install List (by cask)
   - firefox
   - google-chrome
   - torbrowser
-  - vivaldi
 - Works
   - visual-studio-code
   - zeplin
   - slack
   - fork
+  - mamp
   - postman
 - Files
+  - imageoptim
   - dropbox
 - Others
   - spotify
